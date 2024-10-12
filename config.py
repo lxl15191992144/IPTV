@@ -2,6 +2,7 @@ ip_version_priority = "ipv6"
 
 source_urls = [
     "http://175.178.251.183:6689/channel.txt",
+    "https://gitee.com/liuxiaoleiqwer/test-ipv6/blob/master/iptv1.txt",
     "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
     "http://120.79.4.185/new/mdlive.txt",
@@ -57,6 +58,7 @@ announcements = [
 
 epg_urls = [
     "https://live.fanmingming.com/e.xml",
+    "https://e.erw.cc/allcc.xml.gz",
     "http://epg.51zmt.top:8000/e.xml",
     "http://epg.aptvapp.com/xml",
     "https://epg.pw/xmltv/epg_CN.xml",
